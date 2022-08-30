@@ -10,7 +10,6 @@ Back-end : `Node.js, Laravel, MySQL, MongoDB, Vite.js`
 ### Contacts 
 
 * LinkedIn - [Florian Rouvier](https://www.linkedin.com/in/florianrouvier/)
-or
 * [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
 
 [![FlorianRouvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianRouvier&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
