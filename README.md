@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello there
+I'm Florian and I am  Full stack Developper. 
+
+### Technologies used 
+
+Front-end : `React.js, Typescript, Three.js, Angular`
+ 
+Back-end : `Node.js, Laravel, MySQL, MongoDB`
+
+[![FlorianRouvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianRouvier&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **FlorianROUVIER/FlorianRouvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
