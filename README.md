@@ -5,7 +5,7 @@ I'm Florian and I am  Full stack Developper.
 
 Front-end : `React.js, Typescript, Three.js, Angular`
  
-Back-end : `Node.js, Laravel, MySQL, MongoDB`
+Back-end : `Node.js, Laravel, MySQL, MongoDB, Vite.js`
 
 ### Contacts 
 
