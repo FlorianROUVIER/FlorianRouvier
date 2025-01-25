@@ -3,9 +3,9 @@ I'm Florian and I am  Full stack Developper.
 
 ### Technologies used 
 
-Front-end : `React.js, Typescript, Three.js, Angular`
+Front-end : `React.js, Typescript, Three.js, Angular, Node.js`
  
-Back-end : `Node.js, Laravel, MySQL, MongoDB`
+Back-end : `Node.js, Laravel, MySQL, MongoDB, Python`
 
 ### Contacts 
 
