@@ -13,9 +13,6 @@ Back-end : `Node.js, Laravel, MySQL, MongoDB, Python, Flask`
 * [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
 * GitLab : [Florian.rouvier](https://gitlab.com/florian.rouvier)
 
-[![FlorianRouvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianRouvier&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianRouvier&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-Statistiques)
  
 
 <!--
