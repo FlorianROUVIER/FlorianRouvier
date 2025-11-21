@@ -8,7 +8,7 @@ I'm Florian and I am  Full stack Developper.
 ### Contacts 
 
 * LinkedIn - [Florian Rouvier](https://www.linkedin.com/in/florianrouvier/)
-* [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
+* Mail - [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
 * GitLab : [Florian.rouvier](https://gitlab.com/florian.rouvier)
 
  
