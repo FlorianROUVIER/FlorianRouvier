@@ -1,11 +1,9 @@
 # Hello there
 I'm Florian and I am  Full stack Developper. 
 
-### Technologies used 
+### Website
+- [Portfolio](https://florian-rouvier.vercel.app/)
 
-Front-end : `React.js, Angular, Typescript, Three.js, Node.js, Next.js`
- 
-Back-end : `Node.js, Laravel, MySQL, MongoDB, Python, Flask`
 
 ### Contacts 
 
