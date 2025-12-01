@@ -1,5 +1,5 @@
 # Hello there
-I'm Florian and I am  Full stack Developper. 
+I'm Florian and I am  Full stack Developper based in Paris. 
 
 ### Website
 - [Portfolio](https://florian-rouvier.vercel.app/)
