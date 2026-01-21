@@ -1,4 +1,4 @@
-#  Hello, I'm Florian
+#  Hello there, I'm Florian
 
 I'm **Florian Rouvier**, a **Full-Stack Developer** based in **Paris 🇫🇷**, with a strong interest in ambitious projects.
 
