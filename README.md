@@ -1,15 +1,34 @@
-# Hello there
-I'm Florian and I am  Full stack Developper based in Paris. 
+#  Hello, I'm Florian
 
-### Website
-- [Portfolio](https://florian-rouvier.vercel.app/)
+I'm **Florian Rouvier**, a **Full-Stack Developer** based in **Paris 🇫🇷**, with a strong interest in ambitious projects.
 
+I enjoy working across the full development lifecycle — from understanding business needs to delivering clean, maintainable code.  
+I value code quality, collaboration, and continuous improvement.
 
-### Contacts 
+---
 
-* LinkedIn - [Florian Rouvier](https://www.linkedin.com/in/florianrouvier/)
-* Mail - [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
-* GitLab : [Florian.rouvier](https://gitlab.com/florian.rouvier)
+###  What I do
+- Design and develop full-stack web applications
+- Build robust APIs and data-driven backends
+- Create responsive and accessible user interfaces
+- Collaborate in agile environments and code reviews
+
+---
+
+###  Portfolio
+- [florian-rouvier.vercel.app](https://florian-rouvier.vercel.app/)
+
+---
+
+### 📬 Contact
+- **LinkedIn** — [Florian Rouvier](https://www.linkedin.com/in/florianrouvier/)
+- **Email** — [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
+- **GitLab** — [Florian.rouvier](https://gitlab.com/florian.rouvier)
+
+---
+
+ *Currently open to new opportunities and technical challenges.*
+
 
  
 
