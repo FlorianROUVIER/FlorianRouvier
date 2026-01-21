@@ -2,7 +2,7 @@
 
 I'm **Florian Rouvier**, a **Full-Stack Developer** based in **Paris 🇫🇷**, with a strong interest in ambitious projects.
 
-I enjoy working across the full development lifecycle — from understanding business needs to delivering clean, maintainable code.  
+I enjoy working across the full development lifecycle from understanding business needs to delivering clean, maintainable code.  
 I value code quality, collaboration, and continuous improvement.
 
 ---
@@ -20,7 +20,7 @@ I value code quality, collaboration, and continuous improvement.
 
 ---
 
-### 📬 Contact
+###  Contact
 - **LinkedIn** — [Florian Rouvier](https://www.linkedin.com/in/florianrouvier/)
 - **Email** — [florian.rouvier29@gmail.com](mailto:florian.rouvier29@gmail.com)
 - **GitLab** — [Florian.rouvier](https://gitlab.com/florian.rouvier)
